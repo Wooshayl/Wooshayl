@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Computer Science Student &nbsp;·&nbsp; 🔍 Actively looking for an <b>internship</b><br>
-💡 I build end-to-end data & AI projects — from data collection to deployment
+💡 I build end-to-end data & AI projects from data collection to deployment
 </p>
 
 <p align="center">
