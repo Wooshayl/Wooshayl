@@ -23,7 +23,7 @@ End-to-end Ligue 1 data analytics platform:
 
 `Python` `PostgreSQL` `Supabase` `Pandas` `Streamlit` `Plotly` `scikit-learn`
 
-### 🏉 Rugby Object Detection — Computer Vision
+### 🏉 [Rugby Object Detection — Computer Vision](https://github.com/Wooshayl/-Rugby-Object-Detection-Computer-Vision)
 Player / ball / referee detector trained via transfer learning:
 - **Hand-annotated dataset** (Roboflow) built from match footage
 - **YOLOv8** (Ultralytics) fine-tuning on Google Colab
